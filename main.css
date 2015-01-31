@@ -1,0 +1,27 @@
+.container {
+    width: 40%;
+    margin-top: 100px;
+    background: #8A8A8A;
+    border-radius: 4px;
+}
+#screen {
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 2em;
+    box-shadow:0 0 3px #aaaaaa;
+    background: #e9e9e9;
+    border-radius: 5px;
+}
+.row {
+    margin-bottom: 10px;
+}
+button {
+    width: 100%;
+    height: 60px;
+    font-size: 2em;
+}
+.clear {
+    height: 60px;
+    font-size: 2em;
+}
